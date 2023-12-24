@@ -5,7 +5,7 @@ const minutesEl = document.getElementById('minutes');
 const secondsEl = document.getElementById('seconds');
 
 function countdown() {
-    const currentDate = new Date();
+    const currentDate = new Date(); 
     const formattedLaunchDate = new Date(launchDate);
 
     const timeDifference = formattedLaunchDate - currentDate;
