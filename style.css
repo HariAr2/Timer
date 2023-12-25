@@ -1,50 +1,49 @@
-*
-{
-    box-sizing: border-box;
+* {
+  box-sizing: border-box;
 }
-body{
-    background-image: url("https://modsgta6.com/wp-content/uploads/2019/09/Will-Grand-Theft-Auto-6-be-released-in-Brazil-first.jpg");
-    background-size: cover;
-    background-position: center center;
-    font-family: 'Courier New', Courier, monospace;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    display: flex;
-    color: #65B741;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: #ccc;
-    margin: 0;
+body {
+  background-image: url("https://modsgta6.com/wp-content/uploads/2019/09/Will-Grand-Theft-Auto-6-be-released-in-Brazil-first.jpg");
+  background-size: cover;
+  background-position: center center;
+  font-family: "Courier New", Courier, monospace;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  display: flex;
+  color: #65b741;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ccc;
+  margin: 0;
 }
 
-@media screen and(max-width:768px){
-    body{
-        background-size: contain;
-    }
+@media screen and(max-width:768px) {
+  body {
+    background-size: contain;
+  }
 }
-h1{
-    font-size: 4rem;
-    font-weight: normal;
-    margin-top: 15rem;
-    color: #FFB534;
+h1 {
+  font-size: 4rem;
+  font-weight: normal;
+  margin-top: 15rem;
+  color: #ffb534;
 }
-.count-down{
-    display: flex;
+.count-down {
+  display: flex;
 }
-.big-text{
-    font-size: 6rem;
-    color: #C1F2B0;
-    font-weight: bold;
-    line-height: 1;
-    margin: 0 2rem;
+.big-text {
+  font-size: 6rem;
+  color: #c1f2b0;
+  font-weight: bold;
+  line-height: 1;
+  margin: 0 2rem;
 }
 
 .el {
-    text-align: center;
+  text-align: center;
 }
 
-.el span{
-    font-size: 1.6rem;
-    font-weight: bold;
+.el span {
+  font-size: 1.6rem;
+  font-weight: bold;
 }
