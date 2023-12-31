@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
 }
+
 body {
   background-image: url("https://modsgta6.com/wp-content/uploads/2019/09/Will-Grand-Theft-Auto-6-be-released-in-Brazil-first.jpg");
   background-size: cover;
@@ -22,15 +23,18 @@ body {
     background-size: contain;
   }
 }
+
 h1 {
   font-size: 4rem;
   font-weight: normal;
   margin-top: 15rem;
   color: #ffb534;
 }
+
 .count-down {
   display: flex;
 }
+
 .big-text {
   font-size: 6rem;
   color: #c1f2b0;
