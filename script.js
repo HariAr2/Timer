@@ -1,5 +1,5 @@
 const launchDate = "4 Apr 2025";
-const daysEl = document.getElementById("days");
+const daysEl = document.getElementById("days");//connecting with html elemets
 const hoursEl = document.getElementById("hours");
 const minutesEl = document.getElementById("minutes");
 const secondsEl = document.getElementById("seconds");
