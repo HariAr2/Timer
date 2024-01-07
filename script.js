@@ -4,6 +4,8 @@ const hoursEl = document.getElementById("hours");
 const minutesEl = document.getElementById("minutes");
 const secondsEl = document.getElementById("seconds");
 
+
+//main function
 function countdown() {
   const currentDate = new Date(); // Get current date
   const formattedLaunchDate = new Date(launchDate); // Convert launch date to Date object
