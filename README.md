@@ -20,8 +20,8 @@ This project is a simple timer application created using HTML, CSS, and JavaScri
 1. **Clone the Repository:**
    `git clone https://github.com/HariAr2/Timer.git`
 
-2. **Open `index.html`:**
-- Open the `index.html` file in your web browser.
+2. **Open `script.js`:**
+- Open the `script.js` file in your IDE.
 
 3. **Set Timer:**
 - Enter the desired duration for the timer (hours, minutes, and seconds) in the   launch date.
