@@ -1,6 +1,6 @@
 # Timer Application
 
-This project is a simple timer application created using HTML, CSS, and JavaScript. It allows users to set a timer for a specific duration and start/pause/reset the timer.
+This project is a simple timer application created using HTML, CSS, and JavaScript. It allows users to set a timer for a specific duration and start/pause/reset the timer. 
 
 ## Features
 
