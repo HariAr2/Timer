@@ -27,9 +27,11 @@ function countdown() {
 }
 function formatTime(time) {
   // If time is less than 10, prepend a '0'
+  
   return time < 10 ? `0${time}` : time;
 }
 
 countdown();
 //makes sure to set Intreval for 1 second(1000ms)
+
 setInterval(countdown, 1000);
